@@ -6,8 +6,8 @@ RUN apt-get update && apt-get install -y \
     git \
     tesseract-ocr \
     ffmpeg \
-    libsm6 \
-    libxext6 \
+#    libsm6 \
+#    libxext6 \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
