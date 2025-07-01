@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and output
+*.out
+*.pid
+*.bak
+
+# IDEs
+.vscode/
+.idea/
+
+# Python packaging
+dist/
+build/
+.eggs/
+*.egg
+MANIFEST
+
+# Notebooks
+*.ipynb
+
+# Test artifacts
+coverage/
+.pytest_cache/
+
+# Alpaca/Trading API credentials
+.env
+
+# Yolo
+*.pt
