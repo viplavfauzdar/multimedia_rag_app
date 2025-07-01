@@ -43,3 +43,6 @@ coverage/
 
 # Yolo
 *.pt
+
+# ChromaDB 
+vectorstore/
